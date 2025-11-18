@@ -1,0 +1,7 @@
+{
+  "name": "Viber Ai",
+  "description": "We help you to trun your idea into reality. Just tell us what you want and we will start building it.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
